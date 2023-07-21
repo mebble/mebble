@@ -1,16 +1,13 @@
-### Hi there 👋
+# My GitHub
 
-<!--
-**mebble/mebble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### projects
 
-Here are some ideas to get you started:
+- __[web] [burl](), [rss-tree](), [medley](), [govmap](), [intervals](), [strong-charts]()__
+- __[plugins] [spendboard](), [make-like-a-code]()__
+- __[cli] [sirup](), [dotfile-chief](), [obsidian-safe]()__
+- __[visual] [imfx](), [gameoflife]()__
+- __[demos] [mcj](), [tdcj]()__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### challenges
+
+__[advent-of-code](), [rendezvous-with-cassidoo]()__
