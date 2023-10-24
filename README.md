@@ -11,3 +11,7 @@
 #### challenges
 
 __[advent-of-code](https://github.com/mebble/advent-of-code), [rendezvous-with-cassidoo](https://github.com/mebble/rendezvous-with-cassidoo), [overthewire](https://github.com/mebble/overthewire), [project-euler](https://github.com/mebble/project-euler)__
+
+#### platforms
+
+__[codepen](https://codepen.io/mebble), [codewars](https://www.codewars.com/users/mebble/), [khanacademy](https://www.khanacademy.org/profile/mebble)__
