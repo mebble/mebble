@@ -14,4 +14,4 @@ __[advent-of-code](https://github.com/mebble/advent-of-code), [rendezvous-with-c
 
 #### platforms
 
-__[codepen](https://codepen.io/mebble), [codewars](https://www.codewars.com/users/mebble/), [khanacademy](https://www.khanacademy.org/profile/mebble), [dev.to](https://dev.to/mebble)__
+__[codepen](https://codepen.io/mebble), [codewars](https://www.codewars.com/users/mebble/), [khanacademy](https://www.khanacademy.org/profile/mebble), [dev.to](https://dev.to/mebble). [leetcode](https://leetcode.com/__neil_/)__
