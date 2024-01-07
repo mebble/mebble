@@ -6,7 +6,7 @@
 - __[plugins] [spendboard](https://github.com/mebble/spendboard), [make-like-a-code.nvim](https://github.com/mebble/make-like-a-code.nvim)__
 - __[cli] [sirup](https://github.com/mebble/sirup), [ltag](https://github.com/mebble/ltag/), [obsidian-safe](https://github.com/mebble/obsidian-safe)__
 - __[visual] [gameoflife](https://github.com/mebble/gameoflife), [imfx](https://github.com/mebble/imfx)__
-- __[demos] [mcj](https://github.com/mebble/mcj), [tdcj](https://github.com/mebble/tdcj)__
+- __[demos] [mcj](https://github.com/mebble/mcj), [tdcj](https://github.com/mebble/tdcj), [blogsite](https://github.com/mebble/blogsite)__
 
 #### challenges
 
