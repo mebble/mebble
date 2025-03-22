@@ -2,7 +2,7 @@
 
 #### projects
 
-- __[web] [burl](https://github.com/mebble/burl/), [rss-tree](https://github.com/mebble/rss-tree), [medley](https://github.com/mebble/medley), [govmap](https://github.com/mebble/govmap), [intervals](https://github.com/mebble/intervals), [strong-charts](https://github.com/mebble/strong-charts)__
+- __[web] [burl](https://github.com/mebble/burl/), [rss-tree](https://github.com/mebble/rss-tree), [medley](https://github.com/mebble/medley), [govmap](https://github.com/mebble/govmap), [birdwatch](https://github.com/mebble/birdwatch), [intervals](https://github.com/mebble/intervals), [strong-charts](https://github.com/mebble/strong-charts)__
 - __[plugins] [spendboard](https://github.com/mebble/spendboard), [make-like-a-code.nvim](https://github.com/mebble/make-like-a-code.nvim)__
 - __[cli] [sirup](https://github.com/mebble/sirup), [ltag](https://github.com/mebble/ltag/), [obsidian-safe](https://github.com/mebble/obsidian-safe)__
 - __[visual] [gameoflife](https://github.com/mebble/gameoflife), [imfx](https://github.com/mebble/imfx)__
